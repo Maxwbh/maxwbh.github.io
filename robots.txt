@@ -1,0 +1,14 @@
+# robots.txt de maxwbh.github.io
+#
+# Vale para todos os sites de projeto publicados aqui
+# (https://maxwbh.github.io/<repositório>/). Os robots.txt dentro de cada
+# projeto não são lidos: o buscador só procura este, na raiz do domínio.
+#
+# Projeto novo com sitemap: acrescente a linha Sitemap dele no fim.
+
+User-agent: *
+Allow: /
+
+Sitemap: https://maxwbh.github.io/pl_fpdf/sitemap.xml
+Sitemap: https://maxwbh.github.io/pyCobranca/sitemap.xml
+Sitemap: https://maxwbh.github.io/cobranca-api/sitemap.xml
